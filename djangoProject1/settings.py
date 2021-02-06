@@ -13,7 +13,7 @@ SECRET_KEY = 'k0u)us#i&pi(+*6d4_x=)e39^6a*8r6)1c!6b6h*q^0tg(efzo'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1', 'demodsvj.herokuapp.com']
 
 
 # Application definition
